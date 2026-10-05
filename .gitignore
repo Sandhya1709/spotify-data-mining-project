@@ -1,0 +1,7 @@
+.venv/
+data.csv
+data_by_artist.csv
+data_by_genres.csv
+data_by_year.csv
+data_w_genres.csv
+__pycache__/
